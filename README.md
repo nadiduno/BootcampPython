@@ -92,6 +92,6 @@
   <br />
 </div>
 
-*Professora [Marta Cabel](https://github.com/Ravenbells)
-*[Link da Aula](https://github.com/Ravenbells/gitAulaComandos/edit/master/README.md)
-*[Toti](https://totidiversidade.com.br/) - novembro/vembro2022
+Professora [Marta Cabel](https://github.com/Ravenbells) <br />
+[Link da Aula](https://github.com/Ravenbells/gitAulaComandos/edit/master/README.md) <br />
+[Toti](https://totidiversidade.com.br/) - novembro/2022
